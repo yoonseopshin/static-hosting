@@ -5688,6 +5688,103 @@
     "subtype": "재무관리"
   },
   {
+    "year": 2023,
+    "pid": 1,
+    "description": "리더십에 관한 설명으로 가장 적절하지 않은 것은?",
+    "sub_description": [],
+    "questions": [
+      "리더십 특성이론(trait theory)은 사회나 조직에서 인정받는 성공적인 리더들은 어떤 공통된 특성을 갖고 있다는 전제하에 이들 특성을 연구하여 개념화한 이론이다.",
+      "하우스(House)는 리더십 스타일을 지시적(directive), 후원적(supportive), 참여적(participative), 성취지향적(achievement-oriented)으로 구분한다.",
+      "리더-구성원 교환(leader-member exchange, LMX)이론은 리더와 개별 구성원의 역할과 업무 요구사항을 명확히 함으로써 부서내 구성원의 목표 달성을 돕는다.",
+      "스톡딜과 플레쉬맨(Stogdill & Fleishman)이 주도한 오하이오주립대학(OSU)의 리더십 연구는 리더의 행동을 구조주도(initiating structure)와 인간적 배려(consideration)의 두 차원으로 구분한다.",
+      "피들러(Fiedler)의 상황적합모델은 리더십을 관계중심(relationship oriented)과 과업중심(task oriented) 리더십으로 구분한다."
+    ],
+    "answer": 2,
+    "type": "Business",
+    "source": "CPA",
+    "subtype": "일반경영"
+  },
+  {
+    "year": 2023,
+    "pid": 2,
+    "description": "동기부여에 관한 설명으로 가장 적절하지 않은 것은?",
+    "sub_description": [],
+    "questions": [
+      "허쯔버그(Herzberg)의 2요인 이론은 만족과 불만족을 동일한 개념의 양극으로 보지 않고 두 개의 각각 독립된 개념으로 본다.",
+      "직무특성모델(job characteristics model)에서 개인의 성장욕구강도(growth need strength)는 직무특성과 심리상태 간의 관계 및 심리상태와 성과 간의 관계를 조절(moderating)한다.",
+      "자기효능감(self-efficacy)은 어떤 과업을 수행할 수 있다는 개인의 믿음이다.",
+      "인지평가이론(cognitive evaluation theory)에서는 어떤 직무에 대하여 내재적 동기가 유발되어 있는 경우 외적 보상이 주어지면 내재적 동기가 강화된다.",
+      "마이어와 알렌(Meyer & Allen)의 조직몰입 중 규범적(normative) 몰입은 도덕적, 심리적 부담감이나 의무감 때문에 조직에 몰입하는 경우를 의미한다."
+    ],
+    "answer": 3,
+    "type": "Business",
+    "source": "CPA",
+    "subtype": "일반경영"
+  },
+  {
+    "year": 2023,
+    "pid": 3,
+    "description": "다음 설명 중 적절한 항목만을 모두 선택한 것은?",
+    "sub_description": [
+      "a. 높은 집단응집력(group cohesiveness)은 집단사고(group think)의 원인이다.",
+      "b. 사회적 태만(social loafing)은 집단으로 일할 때보다 개인으로 일할 때 노력을 덜 하는 현상을 의미한다.",
+      "c. 제한된 합리성(bounded rationality)에서 사람들은 의사결정시 만족스러운 대안이 아닌 최적의 대안을 찾는다.",
+      "d. 감정노동(emotional labor)은 대인거래 중에 조직 또는 직무에서 원하는 감정을 표현하는 상황으로 인지된 감정(felt emotion)과 표현된 감정(displayed emotion)이 있다.",
+      "e. 빅 파이브(big-five) 모델에서 정서적 안정성(emotional stability)은 사회적 관계 속에서 편안함을 느끼는 정도를 의미한다."
+    ],
+    "questions": [
+      "a, d",
+      "b, c",
+      "b, e",
+      "a, c, d",
+      "c, d, e"
+    ],
+    "answer": 0,
+    "type": "Business",
+    "source": "CPA",
+    "subtype": "일반경영"
+  },
+  {
+    "year": 2023,
+    "pid": 4,
+    "description": "조직구조와 조직문화에 관한 설명으로 가장 적절하지 않은 것은?",
+    "sub_description": [],
+    "questions": [
+      "호손(Hawthorne) 실험은 조직내 비공식 조직과 생산성 간의 관계 및 인간관계와 생산성 간의 관계를 설명한다.",
+      "통제의 범위(span of control)는 한 감독자가 관리해야 하는 부하의 수를 의미한다.",
+      "자원기반관점(resource-based view)에서 기업은 경쟁우위를 창출하기 위해서 가치(valuable)있고, 모방불가능(inimitable)하며, 대체불가능(non-substitutable)하고, 유연한(flexible) 자원들을 보유해야 한다.",
+      "로렌스와 로쉬(Lawrence & Lorsch)의 연구에 의하면, 기업은 경영환경이 복잡하고 불확실할수록 조직구조를 차별화(differenciation)한다.",
+      "홉스테드(Hofstede)의 국가간 문화차이 비교 기준 중 권력간 거리(power distance)는 사회에 존재하는 권력의 불균형에 대해 구성원들이 받아들이는 정도를 의미한다."
+    ],
+    "answer": 2,
+    "type": "Business",
+    "source": "CPA",
+    "subtype": "일반경영"
+  },
+  {
+    "year": 2023,
+    "pid": 5,
+    "description": "다음 설명 중 적절한 항목만을 모두 선택한 것은?",
+    "sub_description": [
+      "a. 태도(attitude)는 정서적(affective), 인지적(cognitive), 행동적(behavioral) 요소로 구성된다.",
+      "b. 직무만족은 직무를 활용한 전문가로서의 체계적인 경력개발을 의미한다.",
+      "c. 마키아벨리즘 성격 특성은 대인관계에 있어 속임수와 조작을 사용하는 성향을 의미한다.",
+      "d. 켈리(Kelly)가 제시한 귀인의 결정요인은 합의성(consensus), 특이성(distinctiveness), 책무성(accountability)이다.",
+      "e. 피그말리온 효과(pygmalion effect)는 특정인에 대한 기대가 실제 행동 결과로 나타나게 되는 현상을 의미한다."
+    ],
+    "questions": [
+      "a, d",
+      "b, e",
+      "c, d",
+      "a, c, e",
+      "b, c, e"
+    ],
+    "answer": 3,
+    "type": "Business",
+    "source": "CPA",
+    "subtype": "일반경영"
+  },
+  {
     "year": 2015,
     "pid": 1,
     "description": "상법상 육상운송인에 관한 설명으로 옳은 것은? (이견이 있으면 판례에 의함)",
