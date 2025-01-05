@@ -4282,7 +4282,10 @@
     "answer": 1,
     "type": "Business",
     "source": "CPA",
-    "subtype": "일반경영"
+    "subtype": "일반경영",
+    "commentary": {
+      "llm": "맥클리랜드의 성취-동기이론에서 개인이 다른 사람들에게 영향력을 행사하고 통제하려는 욕구는 성취욕구가 아니라 권력욕구에 해당한다."
+    }
   },
   {
     "year": 2022,
@@ -4299,7 +4302,10 @@
     "answer": 3,
     "type": "Business",
     "source": "CPA",
-    "subtype": "일반경영"
+    "subtype": "일반경영",
+    "commentary": {
+      "llm": "제왕학과 위인이론은 리더십 특성이론에 해당한다고 볼 수 있다."
+    }
   },
   {
     "year": 2022,
@@ -4321,7 +4327,10 @@
     "answer": 1,
     "type": "Business",
     "source": "CPA",
-    "subtype": "일반경영"
+    "subtype": "일반경영",
+    "commentary": {
+      "llm": "b. 기능팀은 전통적인 조직의 일부로, 상사와 부하들로 구성되며 보통 하나의 부서 단위로 운영된다. 교차기능팀은 여러 부서의 요원들이 모여 신상품 개발이나 프로젝트 수행을 위해 조직되며, 부서 간 경계를 넘어서 정보를 공유하고 문제 해결 및 정책 개발을 지원한다.\nd. 만족감, 성취감, 책임감 등은 내재적 강화요인에 해당한다."
+    }
   },
   {
     "year": 2022,
@@ -4338,7 +4347,10 @@
     "answer": 0,
     "type": "Business",
     "source": "CPA",
-    "subtype": "일반경영"
+    "subtype": "일반경영",
+    "commentary": {
+      "llm": "조직이 변화하는 외부 상황에 적절하고 신속하게 대처하려면 유연성이 필요하며, 이를 위해서는 분권화가 요구된다."
+    }
   },
   {
     "year": 2022,
@@ -4355,7 +4367,10 @@
     "answer": 3,
     "type": "Business",
     "source": "CPA",
-    "subtype": "일반경영"
+    "subtype": "일반경영",
+    "commentary": {
+      "llm": "친족주의는 족벌정치 또는 친족중용주의를 의미하며, 자신의 친척에게 직위나 혜택을 주는 현상을 가리킨다. 이는 종업원의 친척이 같은 고용주 아래에서 일하는 것을 금지하는 관행이 아니라, 친족 중심으로 고용이 이루어지는 것을 말한다."
+    }
   },
   {
     "year": 2022,
@@ -4372,7 +4387,10 @@
     "answer": 4,
     "type": "Business",
     "source": "CPA",
-    "subtype": "일반경영"
+    "subtype": "일반경영",
+    "commentary": {
+      "llm": "직무설계 시 직무를 성공적으로 달성하기 위해 요구되는 다양한 활동의 정도는 과업중요성이 아니라 기능의 다양성을 의미한다."
+    }
   },
   {
     "year": 2022,
@@ -4389,7 +4407,10 @@
     "answer": 0,
     "type": "Business",
     "source": "CPA",
-    "subtype": "일반경영"
+    "subtype": "일반경영",
+    "commentary": {
+      "llm": "자발적 이직의 일반적 원인에는 직무불만족(임금, 작업환경, 인간관계 등), 통근조건, 작업조건, 교대근무의 어려움, 개인적 성장기회 부족, 성취감 미충족, 장래 불안, 집안사정, 결혼, 임신, 가족 이주 등 개인적 요인이 포함된다."
+    }
   },
   {
     "year": 2022,
@@ -4406,233 +4427,10 @@
     "answer": 2,
     "type": "Business",
     "source": "CPA",
-    "subtype": "일반경영"
-  },
-  {
-    "year": 2022,
-    "pid": 9,
-    "description": "서비스의 특징으로 가장 적절하지 않은 것은?",
-    "sub_description": [],
-    "questions": [
-      "무형성(intangibility)",
-      "생산과 소비의 비분리성(inseparability)",
-      "변동성(variability)",
-      "소멸성(perishability)",
-      "동질성(homogeneity)"
-    ],
-    "answer": 4,
-    "type": "Business",
-    "source": "CPA",
-    "subtype": "일반경영"
-  },
-  {
-    "year": 2022,
-    "pid": 11,
-    "description": "척도(scale)에 관한 설명으로 가장 적절하지 않은 것은?",
-    "sub_description": [],
-    "questions": [
-      "척도는 포함하는 정보의 양에 따라 분류된다.",
-      "어의차이척도(semantic differential scale)는 척도의 양 극단에 속성의 정도를 나타내는 반의어를 제시한다.",
-      "비율척도(ratio scale)를 통해 변수들의 상대적 크기를 비교할 수 있고 절대적 크기도 측정할 수 있다.",
-      "간격척도(interval scale)로 측정된 변수 간의 가감(+, -) 연산이 가능하며, 리커트척도(Likert scale)가 간격척도의 예이다.",
-      "서열척도(ordinal scale)를 통해 측정 대상들의 절대적 위치를 알 수 있다."
-    ],
-    "answer": 4,
-    "type": "Business",
-    "source": "CPA",
-    "subtype": "일반경영"
-  },
-  {
-    "year": 2022,
-    "pid": 12,
-    "description": "소비자 정보처리과정의 순서로 가장 적절한 것은?",
-    "sub_description": [],
-    "questions": [
-      "노출→감지→주의→기억→이해",
-      "노출→감지→주의→이해→기억",
-      "노출→주의→감지→이해→기억",
-      "노출→주의→감지→기억→이해",
-      "노출→주의→이해→감지→기억"
-    ],
-    "answer": 1,
-    "type": "Business",
-    "source": "CPA",
-    "subtype": "일반경영"
-  },
-  {
-    "year": 2022,
-    "pid": 13,
-    "description": "자료분석에 관한 설명으로 가장 적절하지 않은 것은?",
-    "sub_description": [],
-    "questions": [
-      "신뢰성(reliability)은 측정결과가 얼마나 일관되는지를 나타낸다.",
-      "첫 번째 측정이 그 다음의 측정에 영향을 미치는 것을 측정 도구의 편향(instrumental bias)이라고 한다.",
-      "외적 타당성(external validity)은 실험의 결과를 실험실 외의 상황에 어느 정도까지 적용할 수 있는지를 나타낸다.",
-      "유의수준은 1종 오류(type I error)의 허용정도를 의미한다.",
-      "양측검정(two-sided test)에서는 귀무가설을 기각할 수 있는 영역이 좌우 양쪽에 위치한다."
-    ],
-    "answer": 1,
-    "type": "Business",
-    "source": "CPA",
-    "subtype": "일반경영"
-  },
-  {
-    "year": 2022,
-    "pid": 14,
-    "description": "소비자가 문제를 인식했을 때 이를 해결할 수 있는 수단을 찾기 위해 기억 속에 저장되어 있는 정보에서 회상하는 과정으로 가장 적절한 것은?",
-    "sub_description": [],
-    "questions": [
-      "강화된 주의(heightened attention)",
-      "내적 탐색(internal search)",
-      "의도적 노출(intentional exposure)",
-      "관여(involvement)",
-      "프레이밍(framing)"
-    ],
-    "answer": 1,
-    "type": "Business",
-    "source": "CPA",
-    "subtype": "일반경영"
-  },
-  {
-    "year": 2022,
-    "pid": 15,
-    "description": "브랜드에 관한 설명으로 가장 적절하지 않은 것은?",
-    "sub_description": [],
-    "questions": [
-      "브랜드 자산(brand equity)은 브랜드가 창출하는 유형 및 무형의 부가가치를 의미한다.",
-      "수직적 라인 확장(vertical line extension)은 기존의 제품보다 신제품의 가격이 낮거나 높은 경우를 의미한다.",
-      "카테고리 확장(category extension)은 기존 브랜드와 동일한 제품범주 내에서 출시된 신제품에 기존 브랜드를 사용하는 것을 의미한다.",
-      "소비자는 자신의 자아개념(self concept)과 일치하는 브랜드 개성을 지닌 브랜드를 선호하는 경향이 있다.",
-      "공동 브랜딩(co-branding)을 하면 하나의 제품에 여러 브랜드가 함께 레이블링(labeling) 될 수 있다."
-    ],
-    "answer": 2,
-    "type": "Business",
-    "source": "CPA",
-    "subtype": "일반경영"
-  },
-  {
-    "year": 2022,
-    "pid": 17,
-    "description": "재고모형에 관한 설명으로 가장 적절하지 않은 것은?",
-    "sub_description": [],
-    "questions": [
-      "실제수요가 예측수요를 초과할 가능성에 대비하여 안전재고를 보유할 경우 재주문점은 증가한다.",
-      "정기주문모형(fixed-order interval model)에서는 정해진 목표재고수준에 따라 주문시점에 재고수준과 목표재고수준의 차이만큼 주문한다.",
-      "정기주문모형에서는 배달시기와 배달경로의 표준화가 용이하며 같은 공급자에게 여러 품목을 동시에 주문할 수 있는 장점이 있다.",
-      "고정주문량모형(fixed-order quantity model)에서는 고정된 로트(lot) 크기로 주문하므로 수량할인이 가능하다.",
-      "고정주문량모형은 주기조사시스템(periodic review system) 이라고도 불리며 안전재고를 활용하여 수요변화에 대처한다."
-    ],
-    "answer": 4,
-    "type": "Business",
-    "source": "CPA",
-    "subtype": "일반경영"
-  },
-  {
-    "year": 2022,
-    "pid": 18,
-    "description": "수요예측에 관한 다음 설명 중 적절한 항목만을 모두 선택한 것은?",
-    "sub_description": [
-      "a. 지수평활법(exponential smoothing method)에서 최근 수요 패턴의 변화를 빠르게 반영하기 위해서는 평활상수의 값을 줄여야 한다.",
-      "b. 추적지표(tracking signal)의 값이 지속적으로 음의 값을 보이는 경우 예측을 실제보다 작게 하는 경향이 있다고 볼 수 있다.",
-      "c. 이동평균법(moving average method)에서 이동평균 기간을 길게 할수록 우연요소에 의한 수요예측치의 변동이 줄어들게 된다.",
-      "d. 지수평활법에서는 오래된 자료보다 최근 자료에 더 큰 비중을 두고 수요를 예측한다."
-    ],
-    "questions": [
-      "a, b",
-      "a, c",
-      "b, c",
-      "b, d",
-      "c, d"
-    ],
-    "answer": 4,
-    "type": "Business",
-    "source": "CPA",
-    "subtype": "일반경영"
-  },
-  {
-    "year": 2022,
-    "pid": 19,
-    "description": "생산방식과 설비배치에 관한 설명으로 가장 적절하지 않은 것은?",
-    "sub_description": [],
-    "questions": [
-      "수요의 변동성이 낮고 완제품에 대한 재고비용이 크지 않을 경우 계획생산 방식이 주문생산 방식에 비해 유리하다.",
-      "제품별 배치(product layout)는 전용설비가 사용되므로 범용설비가 사용되는 공정별 배치(process layout)에 비해 설비투자 규모가 크다.",
-      "제품 생산과정이 빠르고 수요를 초과한 생산량에 대한 폐기 비용이 클 경우 계획생산 방식이 주문생산 방식에 비해 유리하다.",
-      "처리 대상 제품 또는 서비스에 따라 요구사항이 다를 경우 제품별 배치보다 공정별 배치가 적합하다.",
-      "셀룰러 배치(cellular layout)의 경우 그룹 테크놀로지(group technology)를 활용하여 제품별 배치의 이점과 공정별 배치의 이점을 동시에 얻을 수 있다."
-    ],
-    "answer": 2,
-    "type": "Business",
-    "source": "CPA",
-    "subtype": "일반경영"
-  },
-  {
-    "year": 2022,
-    "pid": 21,
-    "description": "생산계획에 관한 설명으로 가장 적절하지 않은 것은?",
-    "sub_description": [],
-    "questions": [
-      "재고수준의 변동은 일반적으로 수요추종 전략(chase strategy)보다 평준화 전략(level strategy)을 활용할 경우 크게 나타난다.",
-      "주생산계획(MPS)은 통상적으로 향후 수개월을 목표 대상기간 으로 하여 주 단위로 수립된다.",
-      "자재소요계획(MRP)의 입력자료에는 주생산계획, 자재명세서 (BOM), 재고기록철(inventory record)이 있다.",
-      "총괄생산계획을 통해 개별 제품별로 월별 생산수준, 인력수준, 재고수준을 결정한다.",
-      "자재소요계획은 생산능력, 마케팅, 재무적 요소 등에 관한 조정 기능을 포함한 MRP II 및 ERP로 확장되었다."
-    ],
-    "answer": 3,
-    "type": "Business",
-    "source": "CPA",
-    "subtype": "일반경영"
-  },
-  {
-    "year": 2022,
-    "pid": 22,
-    "description": "주민센터 A의 업무 프로세스는 리틀의 법칙(Little’s law)을 따른다. 이 주민센터의 시간당 처리 민원인 수가 10명이고, 민원인 한 명이 민원 해결을 위해 평균 30분을 주민센터에 머문다고 할 경우 어느 특정 시간에 주민센터 A 내에 머물고 있는 평균 민원인 수는? (단, 각 민원인은 주민센터에 도착한 순서대로 서비스를 받고 민원이 해결되는 즉시 주민센터를 떠나는 것으로 가정한다.)",
-    "sub_description": [],
-    "questions": [
-      "2명",
-      "5명",
-      "10명",
-      "20명",
-      "60명"
-    ],
-    "answer": 1,
-    "type": "Business",
-    "source": "CPA",
-    "subtype": "일반경영"
-  },
-  {
-    "year": 2022,
-    "pid": 23,
-    "description": "슈메너(Schmenner)의 서비스 프로세스 매트릭스에 관한 설명으로 가장 적절하지 않은 것은?",
-    "sub_description": [],
-    "questions": [
-      "전문서비스(professional service)는 노동집약도와 고객화 정도가 모두 높은 서비스를 의미한다.",
-      "대량서비스(mass service)에는 소매업, 학교, 소매금융 등이 속한다.",
-      "서비스 공장(service factory)에는 항공사, 운수회사, 호텔 등이 속한다.",
-      "서비스 숍(service shop)은 노동집약도는 높으나 고객화 정도는 낮은 특징이 있다.",
-      "전문서비스는 높은 수준의 인건비와 고객화 정도 때문에 비효율 적인 경향이 있다."
-    ],
-    "answer": 3,
-    "type": "Business",
-    "source": "CPA",
-    "subtype": "일반경영"
-  },
-  {
-    "year": 2022,
-    "pid": 24,
-    "description": "린 생산(lean production)에 관한 설명으로 가장 적절하지 않은 것은?",
-    "sub_description": [],
-    "questions": [
-      "작업장의 재고를 정교하게 통제하기 위해 풀 방식(pull system)에 의한 자재흐름이 적용된다.",
-      "생산 프로세스의 작업부하를 일정하게 하고 과잉생산을 방지하기 위해 가능한 작은 로트(lot) 단위로 생산한다.",
-      "수요변동에 효과적으로 대응하기 위해 급변하는 환경을 가정하여 설계되었다.",
-      "린 생산 시스템의 성공적인 정착을 위해서는 가동준비시간(setup time)의 최소화가 필요하다.",
-      "린 생산을 도입할 경우 전통적인 생산시스템에 비해 공급자 수는 감소하는 대신 공급자와의 유대는 강화되는 경향이 있다."
-    ],
-    "answer": 2,
-    "type": "Business",
-    "source": "CPA",
-    "subtype": "일반경영"
+    "subtype": "일반경영",
+    "commentary": {
+      "llm": "직무평가는 조직 내 여러 직무의 절대적 가치를 결정하는 것이 아니라, 직무들의 상대적 가치를 평가하는 공식적이고 체계적인 과정이다."
+    }
   },
   {
     "year": 2022,
