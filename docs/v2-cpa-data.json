@@ -1817,7 +1817,10 @@
     "answer": 4,
     "type": "Accounting",
     "source": "CPA",
-    "subtype": "정부회계"
+    "subtype": "정부회계",
+    "commentary": {
+      "llm": "(5) 미경과보험료적립금은 보험충당부채가 아닌 기타부채로 표시한다."
+    }
   },
   {
     "year": 2023,
@@ -1834,7 +1837,10 @@
     "answer": 0,
     "type": "Accounting",
     "source": "CPA",
-    "subtype": "정부회계"
+    "subtype": "정부회계",
+    "commentary": {
+      "llm": "(1) 순자산변동표의 기초순자산은 보고금액, 전기 오류 수정손익, 회계 변경 누적 효과로 구성되며, 증가사항은 재산 이관, 물품 소관 전환, 양여, 기부 등으로 발생한 자산 증가를 의미한다."
+    }
   },
   {
     "year": 2023,
@@ -1851,7 +1857,10 @@
     "answer": 2,
     "type": "Accounting",
     "source": "CPA",
-    "subtype": "정부회계"
+    "subtype": "정부회계",
+    "commentary": {
+      "llm": "(3) 비망계정은 재정상태표에 자산이나 부채 항목으로 표시하지 않고 잊지 않도록 기록하는 계정이다."
+    }
   },
   {
     "year": 2023,
