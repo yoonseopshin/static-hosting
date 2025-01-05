@@ -2946,12 +2946,15 @@
       "신입사원의 입사시험 성적과 입사 이후 업무성과의 상관관계를 조사하는 방법은 선발도구의 예측타당성(predictive validity)과 관련이 있다.",
       "행위기준고과법(BARS: behaviorally anchored rating scales)은 중요사건기술법과 평정척도법을 응용하여 개발된 인사평가 방법이다.",
       "평가도구가 얼마나 평가목적을 잘 충족시키는가는 타당성 (validity)과 관련이 있다.",
-      "선발도구의 타당성을 측정하는 방법에는 내적 일관성(internal consistency) 측정방법, 양분법(split half method), 시험 재시험 (test-retest) 방법 등이 있다."
+      "선발도구의 타당성을 측정하는 방법에는 내적 일관성(internal consistency) 측정방법, 양분법(split half method), 시험 재시험(test-retest) 방법 등이 있다."
     ],
     "answer": 4,
     "type": "Business",
     "source": "CPA",
-    "subtype": "일반경영"
+    "subtype": "일반경영",
+    "commentary": {
+      "manual": "선발도구의 신뢰성을 측정하는 방법에는 내적 일관성 측정방법, 양분법, 시험-재시험 방법 등이 있다. "
+    }
   },
   {
     "year": 2018,
@@ -2968,7 +2971,10 @@
     "answer": 2,
     "type": "Business",
     "source": "CPA",
-    "subtype": "일반경영"
+    "subtype": "일반경영",
+    "commentary": {
+      "manual": "내부공정성 확보는 개인의 만족과 효용성 증대에 중요한 역할을 하며, 외부공정성은 해당기업의 종업원이 받는 임금수준이 다른 기업의 임금에 비하여 공평한가와 관련된 문제이다. 따라서 보상의 크기가 클수록 공정성이 높아진다고 할 수 없다."
+    }
   },
   {
     "year": 2018,
@@ -2985,7 +2991,10 @@
     "answer": 3,
     "type": "Business",
     "source": "CPA",
-    "subtype": "일반경영"
+    "subtype": "일반경영",
+    "commentary": {
+      "manual": "회피형은 갈등 상황에서 직면한 문제를 피하고자 하는 유형으로 자신에 대한 관심뿐만 아니라 상대방에 대한 관심도 가지지 않는 유형이다."
+    }
   },
   {
     "year": 2018,
