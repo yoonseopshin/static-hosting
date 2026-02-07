@@ -4,5 +4,6 @@
   "settings_native_medium_ad": true,
   "quiz_result_interstitial_ad": true,
   "quiz_result_native_medium_ad": true,
-  "share_reward_duration_hours": 3
+  "share_reward_duration_hours": 3,
+  "min_supported_version": "1.0.0"
 }
