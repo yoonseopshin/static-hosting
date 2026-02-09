@@ -5,5 +5,7 @@
   "quiz_result_interstitial_ad": true,
   "quiz_result_native_medium_ad": true,
   "share_reward_duration_hours": 3,
-  "min_supported_version": "1.0.0"
+  "min_supported_version": "1.0.0",
+  "app_open_ad": true,
+  "app_open_ad_cooldown_minutes": 20
 }
