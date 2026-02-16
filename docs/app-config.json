@@ -7,5 +7,6 @@
   "share_reward_duration_hours": 3,
   "min_supported_version": "1.0.0",
   "app_open_ad": true,
-  "app_open_ad_cooldown_minutes": 20
+  "app_open_ad_cooldown_minutes": 20,
+  "interstitial_ad_interval": 4
 }
