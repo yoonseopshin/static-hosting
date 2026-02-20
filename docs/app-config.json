@@ -4,7 +4,7 @@
   "settings_native_medium_ad": true,
   "quiz_result_interstitial_ad": true,
   "quiz_result_native_medium_ad": true,
-  "commentary_rewarded_ad": false,
+  "commentary_rewarded_ad": true,
   "share_reward_duration_hours": 1,
   "min_supported_version": "1.0.0",
   "app_open_ad": true,
