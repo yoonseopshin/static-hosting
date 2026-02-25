@@ -1,0 +1,14 @@
+{
+  "home_native_medium_ad": true,
+  "note_native_small_ad": true,
+  "settings_native_medium_ad": true,
+  "quiz_result_interstitial_ad": true,
+  "quiz_result_native_medium_ad": true,
+  "commentary_rewarded_ad": true,
+  "share_reward_duration_hours": 1,
+  "min_supported_version": "1.0.0",
+  "app_open_ad": true,
+  "app_open_ad_cooldown_minutes": 20,
+  "interstitial_ad_interval": 4,
+  "commentary_pass_duration_minutes": 5
+}
