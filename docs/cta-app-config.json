@@ -10,5 +10,5 @@
   "app_open_ad": true,
   "app_open_ad_cooldown_minutes": 20,
   "interstitial_ad_interval": 4,
-  "commentary_pass_duration_minutes": 5
+  "commentary_pass_duration_minutes": 10
 }
