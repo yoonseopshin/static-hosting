@@ -5,7 +5,6 @@
   "commentary_pass_duration_minutes": 30,
   "share_reward_duration_minutes": 30,
   "interstitial_ad_interval": 1,
-  "daily_ad_cap": 10,
   "quiz_size": 5,
   "min_supported_version": "1.0.0"
 }
