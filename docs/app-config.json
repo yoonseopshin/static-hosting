@@ -10,5 +10,6 @@
   "app_open_ad": true,
   "app_open_ad_cooldown_minutes": 20,
   "interstitial_ad_interval": 4,
-  "commentary_pass_duration_minutes": 10
+  "commentary_pass_duration_minutes": 10,
+  "display_formatted_price": "₩4,400"
 }
