@@ -12,5 +12,6 @@
   "interstitial_ad_interval": 4,
   "commentary_pass_duration_minutes": 10,
   "display_formatted_price": "₩9,900",
-  "attribution_notice": "Inspired by KYK"
+  "attribution_notice": "Inspired by KYK",
+  "account_link_enabled": true
 }
