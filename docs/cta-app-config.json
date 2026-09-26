@@ -13,5 +13,5 @@
   "commentary_pass_duration_minutes": 10,
   "display_formatted_price": "₩9,900",
   "attribution_notice": "Inspired by KYK",
-  "account_link_disabled": false
+  "account_link_disabled": true
 }
