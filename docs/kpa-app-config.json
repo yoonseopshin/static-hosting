@@ -12,5 +12,10 @@
   "commentary_pass_duration_minutes": 10,
   "display_formatted_price": "₩9,900",
   "account_link_disabled": false,
-  "premium_trial_enabled": true
+  "premium_trial_enabled": true,
+  "unified_backend": {
+    "state": "unified",
+    "epoch": 1,
+    "probe_percent": 0
+  }
 }
