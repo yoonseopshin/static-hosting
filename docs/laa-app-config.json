@@ -5,7 +5,7 @@
   "quiz_result_interstitial_ad": true,
   "quiz_result_native_medium_ad": true,
   "commentary_rewarded_ad": true,
-  "min_supported_version": "2.2.54",
+  "min_supported_version": "2.2.120",
   "app_open_ad": true,
   "app_open_ad_cooldown_minutes": 20,
   "interstitial_ad_interval": 4,
