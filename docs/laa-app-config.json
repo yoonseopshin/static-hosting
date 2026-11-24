@@ -15,7 +15,7 @@
   "premium_trial_enabled": true,
   "unified_backend": {
     "state": "probe",
-    "epoch": 1,
+    "epoch": 2,
     "probe_percent": 100
   }
 }
