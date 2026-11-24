@@ -1,0 +1,54 @@
+{
+  "schema": 1,
+  "apps": [
+    {
+      "id": "cpa",
+      "title": "회계사 준비는 CPA 말문제!",
+      "icon_url": "https://yoonseopshin.github.io/static-hosting/app-icons/cpa-v1.png",
+      "android_package": "com.cpa.cpa_word_problem",
+      "ios_app_store_id": "6446112676"
+    },
+    {
+      "id": "cta",
+      "title": "세무사 준비는 CTA 말문제!",
+      "icon_url": "https://yoonseopshin.github.io/static-hosting/app-icons/cta-v1.png",
+      "android_package": "com.ysshin.ctawordquiz",
+      "ios_app_store_id": "6759821188"
+    },
+    {
+      "id": "kca",
+      "title": "감정평가사 준비는 감평사 말문제!",
+      "icon_url": "https://yoonseopshin.github.io/static-hosting/app-icons/kca-v1.png",
+      "android_package": "kr.craftory.quizapp.kca",
+      "ios_app_store_id": "6761656316"
+    },
+    {
+      "id": "rea",
+      "title": "공인중개사 준비는 공인중개사 기출문제!",
+      "icon_url": "https://yoonseopshin.github.io/static-hosting/app-icons/rea-v1.png",
+      "android_package": "kr.craftory.quizapp.rea",
+      "ios_app_store_id": "6765641367"
+    },
+    {
+      "id": "cpla",
+      "title": "노무사 준비는 공인노무사 기출문제!",
+      "icon_url": "https://yoonseopshin.github.io/static-hosting/app-icons/cpla-v1.png",
+      "android_package": "kr.craftory.quizapp.cpla",
+      "ios_app_store_id": "6804961415"
+    },
+    {
+      "id": "laa",
+      "title": "행정사 준비는 행정사 기출문제!",
+      "icon_url": "https://yoonseopshin.github.io/static-hosting/app-icons/laa-v1.png",
+      "android_package": "kr.craftory.quizapp.laa",
+      "ios_app_store_id": "6814194176"
+    },
+    {
+      "id": "kpa",
+      "title": "변리사 준비는 변리사 기출문제!",
+      "icon_url": "https://yoonseopshin.github.io/static-hosting/app-icons/kpa-v1.png",
+      "android_package": null,
+      "ios_app_store_id": null
+    }
+  ]
+}
