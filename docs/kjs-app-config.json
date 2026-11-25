@@ -1,0 +1,21 @@
+{
+  "home_native_medium_ad": true,
+  "note_native_small_ad": true,
+  "settings_native_medium_ad": true,
+  "quiz_result_interstitial_ad": true,
+  "quiz_result_native_medium_ad": true,
+  "commentary_rewarded_ad": true,
+  "min_supported_version": "2.2.54",
+  "app_open_ad": true,
+  "app_open_ad_cooldown_minutes": 20,
+  "interstitial_ad_interval": 4,
+  "commentary_pass_duration_minutes": 10,
+  "display_formatted_price": "₩9,900",
+  "account_link_disabled": true,
+  "premium_trial_enabled": true,
+  "unified_backend": {
+    "state": "unified",
+    "epoch": 1,
+    "probe_percent": 0
+  }
+}
