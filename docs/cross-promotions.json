@@ -46,14 +46,14 @@
     {
       "id": "kpa",
       "title": "변리사 준비는 변리사 기출문제!",
-      "icon_url": "https://yoonseopshin.github.io/static-hosting/app-icons/kpa-v1.png",
+      "icon_url": "https://yoonseopshin.github.io/static-hosting/app-icons/kpa-v2.png",
       "android_package": null,
       "ios_app_store_id": null
     },
     {
       "id": "kjs",
       "title": "법무사 준비는 법무사 기출문제!",
-      "icon_url": "https://yoonseopshin.github.io/static-hosting/app-icons/kjs-v1.png",
+      "icon_url": "https://yoonseopshin.github.io/static-hosting/app-icons/kjs-v2.png",
       "android_package": null,
       "ios_app_store_id": null
     }
